@@ -1,0 +1,5 @@
+bool enable
+uint32 map_id
+---
+int64 result
+string description
